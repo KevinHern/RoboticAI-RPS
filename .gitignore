@@ -1,0 +1,12 @@
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# PyCharm related
+/__pycache__/
+/game/logs/
+/game/components/best_model_0.81.zip
+/game/components/best_model_0.81.h5
+/game/components/best_model_0.75.h5
